@@ -7,6 +7,8 @@ import pyscripts.mad as mad
 import pyscripts.gf as gf
 
 
+# update: 20.10.2020
+
 # ======================================================================================================
 # To run PyGlobsterS, use the following command on terminal: $ python3 pyglobsters.py x x x x x
 # where 'x' is a boolean control flag to execute the internal methods: PyAtlas, PySynthe, rebin, MAD, GF
