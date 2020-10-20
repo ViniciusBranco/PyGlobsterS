@@ -7,7 +7,7 @@ import pyscripts.mad as mad
 import pyscripts.gf as gf
 
 
-# update: 20.10.2020
+# update: 20.10.2020 2
 
 # ======================================================================================================
 # To run PyGlobsterS, use the following command on terminal: $ python3 pyglobsters.py x x x x x
