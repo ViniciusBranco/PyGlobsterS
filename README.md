@@ -20,7 +20,7 @@ bin
 |--- External executable programs. Main input/output files and folders may be present.
 
 doc
-|--- External programs and PGS's documentation files
+|--- External programs and PGS documentation files
 
 etc
 |--- Main PGS model and spectra outputs
