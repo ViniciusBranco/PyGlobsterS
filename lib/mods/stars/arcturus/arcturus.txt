@@ -1,0 +1,4 @@
+Arcturus atmosphere models:
+Author - file name - abundance reference - Program used
+
+Branvo V. - arcasp09t4286g166v174.dat - Ramirez & Pietro (2011) - ATLAS12
