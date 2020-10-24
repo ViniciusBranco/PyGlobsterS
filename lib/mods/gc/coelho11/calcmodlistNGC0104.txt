@@ -1,0 +1,7 @@
+t04500_g2.0_m07p04_CNONa_enhHe.dat.mod
+t04500_g2.5_m07p04_CNONa_enhHe.dat.mod
+t04500_g2.5_m07p04.dat.mod
+t05500_g4.0_m07p04_CNONa_enhHe.dat.mod
+t06000_g4.5_m07p04.dat.mod
+t06000_g4.5_m07p04_CNONa_enhHe.dat.mod
+t06000_g4.5_m07p04.dat.mod
