@@ -1,0 +1,5 @@
+atlas
+|--- ATLAS12 and SYNTHE binary and executable programs
+
+lector
+|--- FORTRAN 77 code for computing the Lick indices

@@ -1,0 +1,4 @@
+LECTOR
+(Worthey et al., 1994; Worthey e Ottaviani, 1997; Vazdekis e Arimoto, 1999)
+
+|--- This LECTOR version was downloaded from http://research.iac.es/galeria/vazdekis//vazdekis_software.html on april 13, 2020.
