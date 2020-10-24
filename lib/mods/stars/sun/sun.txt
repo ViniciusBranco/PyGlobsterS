@@ -1,0 +1,4 @@
+Sun atmosphere models:
+Author - file name - abundance reference - Program used
+
+Branvo V. - sunasp09t5777logg44377v100.dat - Asplund et al. (2009) - ATLAS12
