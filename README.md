@@ -3,7 +3,7 @@ PyGlobsterS (PYthon GLOBular cluSTER Synthesizer or PGS) is a suite of Python 3.
 
 ______________________
 
-v0.0.1 - PyGlobsterS is under production. Do not run it. It may not work.
+v0.0.1 - PyGlobsterS is under production. Do not run it. It may not work yet.
 
 Should you use any PGS content, check the plain/text file with same name as the related folder for proper citation.
 
