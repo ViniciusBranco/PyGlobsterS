@@ -14,6 +14,11 @@ Branco, V.
 
 ______________________
 
+Future updates:
+
+* Example python script using existing models to evaluate new stellar atmosfephe and synthetic spectrum models
+______________________
+
 Folder descriptions:
 
 bin
